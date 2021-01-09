@@ -1,0 +1,196 @@
+header
+{	
+    	background-color:#315496;
+     	font-family:Arial;
+     	color:white;
+    	padding-top: 15px;
+     	padding-bottom: 15px;
+     	font-size: 40px;
+     	padding-right: 30px;
+     	padding-left: 20px;
+     	position: relative;
+}
+img 
+{
+	width: 50px;
+	height: 50px;
+}
+div
+{	
+	padding-right: 80px;
+	padding-left: 80px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+ }
+
+.h2
+{
+	font-family:Arial;
+}
+.a1
+{
+	color:white;
+	font-size:20px;
+	padding-left:50px;
+}
+.a2
+{
+	color:white;
+	font-size:20px;
+	float:right;
+}
+body
+{
+	font-family:Arial;
+}
+.button
+{
+	background-color: #315496; border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;
+	font-size: 16px;margin: 4px 2px;
+}
+footer
+{
+	background-color:lightgrey;
+	font-family:Arial;
+	padding-top: 25px;
+	padding-bottom: 30px;
+	position : absolute;
+	bottom:0;
+	width:100%;
+	padding-left : 20px;
+}
+nav
+{
+	float:right;
+}
+.Table
+{
+	color:615F5F;
+	font-family:Arial;
+    margin-top: 50px;
+    margin-right: 50px;
+  
+}
+.radio
+{
+	color:black;
+	font-weight:normal;
+}
+th
+{
+    padding-bottom: 10px;
+}
+td
+{
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+#nameadmin
+{
+    text-align: left;
+    padding-right: 70px;
+}
+#priceadmin
+{
+    text-align: left;
+    padding-left: 7px;
+}
+#dateadmin
+{
+    text-align: center;
+    padding-left: 7px;
+}
+#categoryadmin
+{
+    text-align: left;
+}
+#deliveryadmin
+{
+    text-align: center;
+}
+#actionadmin
+{
+    text-align: right;
+    padding-left: 20px;
+}
+#priceadminth
+{
+    text-align: center;
+}
+#activeadminth
+{
+    text-align: left;
+}
+#dateadminth
+{
+    text-align: left;
+}
+#categoryadminth
+{
+    padding-right: 40px;
+}
+.formadmin
+{
+    float:left;
+    padding-left: 70px;
+}
+#caption
+{
+    text-align: left;
+    font-size: 30px;
+    height:50px;
+    width: 250px;
+}
+th
+{
+    padding-right: 17px;
+}
+#Edit
+{
+    padding-left: 60px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+p1
+{
+    padding-left: 60px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+p2
+{
+    font-weight: bold;
+    padding-left: 60px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+a
+{
+    color:#1E90FF;
+}
+#pedit
+{
+    text-align: left;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.editmenu
+{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.Tablecus
+{
+    padding-right: 500px;
+}
+#mtd
+{
+    padding-bottom: 0px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.checkbox
+{
+    width: 20px;
+    height: 20px;
+}
